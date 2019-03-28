@@ -1,6 +1,6 @@
-# Technical blogs and resources
+# Technical blogs and resources  🛸
 
-## Sites in General
+## Sites in General  
 * [https://dev.to/](https://dev.to/)
 * [https://hackr.io/](https://hackr.io/)
 * [https://medium.com/](https://medium.com/) - Set Interests: Javascript, Programming and Software Engineering
