@@ -19,8 +19,8 @@ The communication is best done through e- mail since it is easier to track and o
 **Due Date:** 30th June 2019
 
 ### 🌴 Extra information and Materials  🌴
-[How to start building a project](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/HowToStartProject.md)
-[How to organize while developing an application](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/HowToOrganize.md)
-[Free APIs and helpful pages](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/FreeApis.md)
-[Technical blogs and resources](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/TechincalBlogs.md)
-[How to simulate getting data from Data Base with JSON](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/SimulateDataBase.md)
+* [How to start building a project](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/HowToStartProject.md)
+* [How to organize while developing an application](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/HowToOrganize.md)
+* [Free APIs and helpful pages](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/FreeApis.md)
+* [Technical blogs and resources](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/TechincalBlogs.md)
+* [How to simulate getting data from Data Base with JSON](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/SimulateDataBase.md)
