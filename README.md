@@ -15,7 +15,9 @@ The team responsibility will be to plan the course of the development process fo
 
 ### Communication 📝
 The communication is best done through e- mail since it is easier to track and organize all feedback and questions. 
+
 **Contact e-mail:** gdragan6@gmail.com
+
 **Due Date:** 30th June 2019
 
 ### 🌴 Extra information and Materials  🌴
