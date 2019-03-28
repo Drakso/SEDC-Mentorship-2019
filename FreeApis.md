@@ -1,5 +1,4 @@
-# Free APIs and helpful pages
-
+# Free APIs and helpful pages ⚡
 * [Huge collection of free apis](https://github.com/toddmotto/public-apis) All free ( some require account )
 * [Website for searching APIs](https://rapidapi.com/) - Has free but also paid APIs
 * [Another website for searching APIs](https://any-api.com/) - Has free but also paid APIs
