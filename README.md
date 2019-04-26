@@ -16,6 +16,12 @@ The team responsibility will be to plan the course of the development process fo
 ### Communication 📝
 The communication is best done through e- mail since it is easier to track and organize all feedback and questions. 
 
+### Meetings
+There are 3 meetings planned. On these meetings we will:
+Meeting no.1 [06.04.2019] - Talk and refine the ideas of the projects, how to start building them and how to organize in a team
+Meeting no.2 [Date Not Confirmed] - Check the progress of the projects, talk about the development process and discuss about problems and cloging issues
+Meeting no.3 [Date Not Confirmed] - Talk and help students with finalization of the projects, discussion about soft skills ( how to make a presentaton of a project )
+
 **Contact e-mail:** gdragan6@gmail.com
 
 **Due Date:** 30th June 2019
@@ -26,3 +32,4 @@ The communication is best done through e- mail since it is easier to track and o
 * [Free APIs and helpful pages](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/FreeApis.md)
 * [Technical blogs and resources](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/TechincalBlogs.md)
 * [How to simulate getting data from Data Base with JSON](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/SimulateDataBase.md)
+* [How to use LocalStorage](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/LocalStorage.md)
