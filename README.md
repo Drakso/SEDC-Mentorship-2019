@@ -8,19 +8,19 @@ The goal of this programme is for every team to create a product, an application
 A mentors responsibility will be to guide and assist the students through out the process of design and development of the projects. This can be done through giving students feedback, consult on issues and give directions when the students get stuck or have some dilemma about the project, the code or the idea in general. Every team will have a chance to contact the mentor and ask for a feedback, but since the goal is to build an independent project, this feedback will be limited to:
 * 2 x Technical mentorship feedback for the idea, technology stack or the functional scope of the project
 * 4 x Technical mentorship feedback related to some technical issues
-* 2 x Tecnical mentorship feedback regarding the finalization of the project
+* 2 x Technical mentorship feedback regarding the finalization of the project
 
 ### Team responsibility ⚽
 The team responsibility will be to plan the course of the development process for their project. A team needs to spend at least 40 to 60 hours on the project. If there are multiple members than this number is multiplied by the number of team members. Every team member needs to have a part in the project and need to present their work when the presentation day comes
 
 ### Communication 📝
-The communication is best done through e- mail since it is easier to track and organize all feedback and questions. 
+The communication is best done through e-mail since it is easier to track and organize all feedback and questions. 
 
 ### Meetings
 There are 3 meetings planned. On these meetings we will:
 Meeting no.1 [06.04.2019] - Talk and refine the ideas of the projects, how to start building them and how to organize in a team
-Meeting no.2 [Date Not Confirmed] - Check the progress of the projects, talk about the development process and discuss about problems and cloging issues
-Meeting no.3 [Date Not Confirmed] - Talk and help students with finalization of the projects, discussion about soft skills ( how to make a presentaton of a project )
+Meeting no.2 [Date Not Confirmed] - Check the progress of the projects, talk about the development process and discuss about problems and clogging issues
+Meeting no.3 [Date Not Confirmed] - Talk and help students with finalization of the projects, discussion about soft skills ( how to make a presentation of a project )
 
 **Contact e-mail:** gdragan6@gmail.com
 
