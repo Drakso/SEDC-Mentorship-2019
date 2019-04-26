@@ -8,3 +8,9 @@ Don't have an API for the project you want to build? Well no worries. There is n
 6. Make AJAX Call to the Link
 7. Get the JSON and Parse it
 8. ENJOY YOUR DATA
+
+### JSON builders and generators
+* [Objgen JSON](http://www.objgen.com/json)
+* [JSON Generator](https://www.json-generator.com/)
+* [Json Editor Online](https://jsoneditoronline.org/)
+* [JsonSchema](https://jsonschema.net/)
