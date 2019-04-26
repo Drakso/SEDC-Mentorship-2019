@@ -5,7 +5,7 @@ Local storage is a storage space in the browser and can store key value pairs of
 * Local storage can only keep key value pairs of data
 * Local storage can only store strings
 
-### Sotre data in local storage
+### Store data in local storage
 Now, you might be thinking... How can we store our data when local storage only accepts strings and they must be in a key - value combo? Well we can utilize the power of JSON and with that put whatever we need in local storage even objects and arrays. How? Well let's make an example where we need to store Objects of the Human class in it and see.
 1. We create a class Human with properties Name and Age
 2. We create an array with humans
