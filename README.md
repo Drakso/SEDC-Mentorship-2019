@@ -26,6 +26,8 @@ There are 3 meetings planned. On these meetings we will:
 
 **Due Date:** 30th June 2019
 
+**Presentation Date:** 11th, 12th, 13th July 2019
+
 ### 🌴 Extra information and Materials  🌴
 * [How to start building a project](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/HowToStartProject.md)
 * [How to organize while developing an application](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/HowToOrganize.md)
@@ -33,3 +35,4 @@ There are 3 meetings planned. On these meetings we will:
 * [Technical blogs and resources](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/TechincalBlogs.md)
 * [How to simulate getting data from Data Base with JSON](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/SimulateDataBase.md)
 * [How to use LocalStorage](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/LocalStorage.md)
+* [Implementing Graphs and Charts](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/GraphsAndCharts.md)
