@@ -36,3 +36,5 @@ There are 3 meetings planned. On these meetings we will:
 * [How to simulate getting data from Data Base with JSON](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/SimulateDataBase.md)
 * [How to use LocalStorage](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/LocalStorage.md)
 * [Implementing Graphs and Charts](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/GraphsAndCharts.md)
+* [Soft Skills](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/SoftSkills.md)
+* [GitPages Hosting](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/GitPages.md)
