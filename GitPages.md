@@ -1,4 +1,4 @@
-# Hosting on GitHub Pages
+# Hosting on GitHub Pages 🏆
 1. Go to [GitHub](https://github.com)
 2. Open your repository with the project
 3. The homepage for the project must be called **index.html** and be placed directly in the repository ( not in any folder )
