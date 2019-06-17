@@ -20,7 +20,7 @@ The communication is best done through e-mail since it is easier to track and or
 There are 3 meetings planned. On these meetings we will:
 * Meeting no.1 [06.04.2019] - Talk and refine the ideas of the projects, how to start building them and how to organize in a team
 * Meeting no.2 [11.05.2019] - Check the progress of the projects, talk about the development process and discuss about problems and clogging issues
-* Meeting no.3 [Date Not Confirmed] - Talk and help students with finalization of the projects, discussion about soft skills ( how to make a presentation of a project )
+* Meeting no.3 [17.06.2019] - Talk and help students with finalization of the projects, discussion about soft skills ( how to make a presentation of a project )
 
 **Contact e-mail:** gdragan6@gmail.com
 
