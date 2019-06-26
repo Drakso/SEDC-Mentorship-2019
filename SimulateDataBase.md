@@ -14,3 +14,6 @@ Don't have an API for the project you want to build? Well no worries. There is n
 * [JSON Generator](https://www.json-generator.com/)
 * [Json Editor Online](https://jsoneditoronline.org/)
 * [JsonSchema](https://jsonschema.net/)
+
+### How to host data in google sheets and get JSON from it
+* [https://www.freecodecamp.org/news/cjn-google-sheets-as-json-endpoint/](https://www.freecodecamp.org/news/cjn-google-sheets-as-json-endpoint/)
