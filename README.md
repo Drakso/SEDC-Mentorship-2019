@@ -26,7 +26,7 @@ There are 3 meetings planned. On these meetings we will:
 
 **Due Date:** 30th June 2019
 
-**Presentation Date:** 11th, 12th, 13th July 2019
+**Presentation Date:** 11th July 2019
 
 ### 🌴 Extra information and Materials  🌴
 * [How to start building a project](https://github.com/Drakso/SEDC-Mentorship-2019/blob/master/HowToStartProject.md)
