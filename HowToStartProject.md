@@ -12,7 +12,8 @@ Applications are not built only by coding and drinking coffee. Applications are 
 5. Repeat 3 and 4 until you get a satisfying result
 
 ### Analyzing and research phase 🌟
-This is the first phase of any project and this is often overlooked by inexperienced developers since the importance of this phase is highlighted later in the other phases manifesting as not knowing what to do, not having the right information or data and developing an application in the wrong direction. In this phase you need to see what the requirements of the project you are building. After analyzing the requirements we need to write down all the things that we would need in order to start this project. This means that we need to research where to find data for our project, research if it is possible to complete it with the technologies you know or research to find libraries or other means to fulfill the requirements for the project. After you are done with this phase you should have a list of resources, information and data needed to start and continue at a steady course to completing the project
+
+This is the first phase of any project and this is often overlooked by inexperienced developers since the importance of this phase is highlighted later in the other phases manifesting as not knowing what to do, not having the right information or data and developing an application in the wrong direction. In this phase you need to see what the requirements of the project you are building. After analyzing the requirements we need to write down all the things that we would need in order to start this project. This means that we need to research where to find data for our project, research if it is possible to complete it with the technologies you know or research to find libraries or other means to fulfill the requirements for the project. After you are done with this phase you should have a list of resources, information and data needed to start and continue at a steady course to completing the project.
  
 ### Planning phase 🌟
 
@@ -24,4 +25,4 @@ In this phase we start coding all the tasks that we have planned and written in 
 
 ### Testing phase 🌟
 
-This is a phase where we spend time testing our code and checking if the built product correlates with the requirements. When we encounter a problem, missing requirement or something out of place we go back to the coding phase to fix the problems and then go back to testing. This cycle is done when we are satisfied with the complete product
+This is a phase where we spend time testing our code and checking if the built product correlates with the requirements. When we encounter a problem, missing requirement or something out of place we go back to the coding phase to fix the problems and then go back to testing. This cycle is done when we are satisfied with the complete product.
